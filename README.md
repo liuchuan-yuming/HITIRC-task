@@ -1,6 +1,16 @@
 # HITIRC-task
 ## 任务概述
-本报告记录了我在Aelos&Roban任务中的完成情况，主要包括“1.1基本任务”和“1.2进阶任务”。以下是任务的具体内容及实现情况。
+本报告记录了我在Aelos&Roban任务中的完成情况，主要包括“1.0学习概览”、“1.1基本任务”和“1.2进阶任务”。以下是任务的具体内容及实现情况。
+
+## 1.0 学习概览
+### ROS学习
+根据b站ros课程，同步学习文件在src中：
+- learning_topic
+- learning_service
+- learning_parameter
+- learning_tf
+- learning_launch
+参考学习笔记 [ROS学习笔记](https://blog.csdn.net/takedachia/category_11584500.html)
 
 ## 1.1 基本任务：使用OpenCV识别红色物体
 ### 任务目标
